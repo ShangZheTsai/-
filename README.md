@@ -1,4 +1,4 @@
-## 期末作業提供兩個公開數據集
+## 提供兩個公開數據集
 分別為 Dataset_2 - a dataset for heart attack classification Dataset_1 - a dataset for diabetes classification
 
 選擇一個資料集，根據這學期學習的各項機器學習知識以及範例程式，設定不同項目進行分類模型效能探討，例如：

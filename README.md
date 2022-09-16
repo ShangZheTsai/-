@@ -11,7 +11,8 @@
  
 
 訓練集以及測試集之分割為測試集佔全部數據集的25%
-並且random_state設定為1，即 
-X_train, X_test, y_train, y_test = \ train_test_split(X, y, test_size=0.25, random_state=1)
+並且random_state設定為1                                   
+即X_train, X_test, y_train, y_test = \ train_test_split(X, y, test_size=0.25, random_state=1)
+
 不論自訂對於哪些項目進行討論，最終一定要明確說出你所使用的是哪一個數據集
 並且呈現針對上述測試集，你所找到的最佳分類模型，包含數據前處理、學習演算法及其參數設定，以及最終分類效能的指標(accuracy, precision, recal, andl confusion matrix)等結果

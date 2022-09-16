@@ -2,7 +2,7 @@
 分別為 Dataset_1 - a dataset for diabetes classification
       Dataset_2 - a dataset for heart attack classification
 
-選擇一個資料集，根據這學期學習的各項機器學習知識以及範例程式，設定不同項目進行分類模型效能探討，例如：
+選擇一個資料集(此使用dataset_2)，根據這學期學習的各項機器學習知識以及範例程式，設定不同項目進行分類模型效能探討，例如：
 1. 不同特徵擷取技術
 2. 不同學習演算法
 3. 學習演算法參數最佳化

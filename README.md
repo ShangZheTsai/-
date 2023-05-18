@@ -1,4 +1,4 @@
-## 提供兩個公開數據集
+## 提供兩個公開數據集,進行分類模型效能探討
 分別為 Dataset_1 - a dataset for diabetes classification
       Dataset_2 - a dataset for heart attack classification
 
